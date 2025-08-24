@@ -1,6 +1,7 @@
 I. What is Deep Learning?
--insert intro here please-
+-insert intro here 
 Associated Homework: Homework 1
+
 1.1 Artificial Intelligence, Machine Learning, and Deep Learning
 ■ Artificial Intelligence
 ■ Machine learning
@@ -28,7 +29,8 @@ Associated Homework: Homework 1
 
 
 2. The mathematical building blocks of neural networks
--insert intro here please-
+-insert intro here
+
 Associated Homework: Homework 1
 2.1 A first look at a neural network
 2.2 Data representations for neural networks
@@ -59,7 +61,7 @@ Associated Homework: Homework 1
 
 
 
-3. Getting started with neural networks
+4. Getting started with neural networks
 -insert intro here please-
 Associated Homework: Homework 1
 3.1 Anatomy of a neural network
@@ -96,7 +98,7 @@ Associated Homework: Homework 1
 
 
 
-4. Fundamentals of machine learning
+5. Fundamentals of machine learning
 -insert intro here please-
 Associated Homework: Homework 1
 4.1 Three branches of machine learning
@@ -130,7 +132,7 @@ Associated Homework: Homework 1
 
 
 
-5. Deep learning for computer vision
+6. Deep learning for computer vision
 -insert intro here please-
 Associated Homework: Homework 1
 5.1 Introduction to convnets
@@ -151,7 +153,7 @@ Associated Homework: Homework 1
 ■ Visualizing heatmaps of class activation
 
 
-6. Deep learning for text and sequences
+7. Deep learning for text and sequences
 -insert intro here please-
 Associated Homework: Homework 1
 6.1 Working with text data
@@ -179,7 +181,7 @@ Associated Homework: Homework 1
 ■ Implementing a 1D convnet
 ■ Combining CNNs and RNNs to process long sequences
 
-7. Advanced deep-learning best practices
+8. Advanced deep-learning best practices
 -insert intro here please-
 Associated Homework: Homework 1
 7.1 Going beyond the Sequential model: the Keras functional API
@@ -197,7 +199,7 @@ Associated Homework: Homework 1
 ■ Advanced architecture patterns
 ■ Hyperparameter optimization
 ■ Model ensembling
-8. Generative deep learning
+9. Generative deep learning
 8.1 T ext generation with LSTM
 ■ A brief history of generative recurrent networks
 ■ How do you generate sequence data?
@@ -224,7 +226,7 @@ Associated Homework: Homework 1
 
 
 
-9. Conclusions
+10. Conclusions
 -insert intro here please-
 Associated Homework: Homework 1
 9.1 Key concepts in review
