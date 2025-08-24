@@ -66,8 +66,7 @@ Associated Homework: Homework 1
 ■ Layers: the building blocks of deep learning
 ■ Models: networks of layers
 ■ Loss functions and optimizers: keys to configuring the learning process
-3.2 Introduction to Keras6/1/23, 9:03 AM ENGR011 - Deep Learning with Python for Scientists and Engineers - Course Outline Record | Solano
-https://solano.elumenapp.com/public/course/41/606d018f-80b8-4d88-8a30-ad502d029a7c/606d018f-80b8-4d88-8a30-ad502d029a7c 8/13
+3.2 Introduction to Keras
 ■ Keras, T ensorFlow, Theano, and CNTK
 ■ Developing with Keras
 3.3 Setting up a deep-learning workstation
@@ -121,8 +120,7 @@ Associated Homework: Homework 1
 ■ repairing your data
 ■ Developing a model that does better than a baseline
 ■Scaling up: developing a model that overfits
-■ Regularizing your model and tuning your hyperparameters6/1/23, 9:03 AM ENGR011 - Deep Learning with Python for Scientists and Engineers - Course Outline Record | Solano
-https://solano.elumenapp.com/public/course/41/606d018f-80b8-4d88-8a30-ad502d029a7c/606d018f-80b8-4d88-8a30-ad502d029a7c 9/13
+■ Regularizing your model and tuning your hyperparameters
 ■ evaluation protocol
 ■ Preparing your data
 ■ Developing a model that does better than a baseline
